@@ -1,6 +1,8 @@
 Dockerfile for WKHTMLTOPDF (on alpine:edge)
 ===
 
+Based on https://github.com/RoseRocket/docker-alpine-wkhtmltopdf-patched-qt
+
 Usage:
 
 `docker pull noomz/wkhtmltopdf-alpine`
