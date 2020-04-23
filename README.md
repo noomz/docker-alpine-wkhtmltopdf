@@ -5,7 +5,7 @@ Based on https://github.com/RoseRocket/docker-alpine-wkhtmltopdf-patched-qt
 
 Usage:
 
-`docker pull noomz/wkhtmltopdf-alpine`
+`docker pull noomz/wkhtmltopdf-patched-qt`
 
 Example:
 
